@@ -1,0 +1,6 @@
+{
+    "require": {
+        "dibi/dibi": "^4.2",
+        "phpoffice/phpspreadsheet": "^1.17"
+    }
+}
